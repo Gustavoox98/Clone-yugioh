@@ -1,0 +1,13 @@
+/* esse asterisco (*) diz que vai aplicar em todo o codigo ao todo momento sem precisar referenciar*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* esse ul se referencia a afetar toda lista nao ordenada do codigo sem referenciar tambem*/
+
+ul{
+    list-style: none;
+}
